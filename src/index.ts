@@ -1,8 +1,3 @@
-import test2 from "./test2";
+import test from "index/test";
 
-function test1() {
-    console.log('test1');
-};
-
-test1();
-test2();
+test();
